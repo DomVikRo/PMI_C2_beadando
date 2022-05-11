@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user>
+        <name>Stephen Strange</name>
+        <jegyek>3,5,1,2,</jegyek>
+        <atment>1</atment>
+    </user>
+    <user>
+        <name>Steve Rogers</name>
+        <jegyek>5,5,5,5,</jegyek>
+        <atment>1</atment>
+    </user>
+</users>
